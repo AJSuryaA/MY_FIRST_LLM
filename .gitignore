@@ -1,0 +1,30 @@
+# Python Virtual Environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Unit test / coverage
+.coverage
+.pytest_cache/
+htmlcov/
+
+# IDE files (if applicable, e.g., for VS Code or PyCharm)
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
